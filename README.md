@@ -1,4 +1,5 @@
 ### Hi there 👋
+###my name is Sasha, I'm currently a Salesforce Admin, and am learning programming to try to break into Back-end engineering!
 
 <!--
 **SashaDaich/SashaDaich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
